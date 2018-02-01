@@ -10,12 +10,12 @@ See `Task 2` folder for test suite in Microsoft Excel format. Here is short summ
 * I have prioritized test cases as per business impact. Test Cases with `High` priority should be automated first.
 * Test cases could be automated on the following levels:
 	
-	- User Interface Level
-		pros: Improved user experience as test cases would focus on UI. 
-		cons: Need to update test-cases frequently as underlying api(s)/libraries change often.
-	- Functional Level
-		pros: Improved feature stability as test cases focus on core functional part of the application. 
-		cons: Might not reflect end user experience with the application.
+	- User Interface Level 
+		**pros** Improved user experience as test cases would focus on UI. 
+		**cons** Need to update test-cases frequently as underlying api(s)/libraries change often.
+	- Functional Level 
+		**pros** Improved feature stability as test cases focus on core functional part of the application. 
+		**cons** Might not reflect end user experience with the application.
 	
 
 (Note: since I am doing this task as an optional task, I didn't create automated test cases for this). 
