@@ -14,9 +14,15 @@ Prerequisites
 1. Download and install [Eclipse IDE for Java](https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigo)
 2. Make sure Bestbuy API playground server is running.
 
-Open Eclipse and Import the project
--------------------------------------
-File->Import->General->Existing Projects into Workspace
+Open Eclipse and setup this project in Eclipse
+---------------------------------------------
+1. Clone this Repository
+```
+git clone https://github.com/ankita-chouhan/N26_QA_Tasks.git
+```
+2. Import this cloned repository as java project in Eclipse:
+	a) File->Import->Existing Projects into Workspace 
+	b) Choose the `N26_QA_Tasks` folder.
 
 Setup [Rest-Assured](https://github.com/rest-assured/rest-assured) Library
 -----------------------------------------
